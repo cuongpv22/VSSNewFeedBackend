@@ -1,0 +1,16 @@
+{
+  "name": "vssnewsfeed",
+  "version": "1.0.0",
+  "description": "VSS News Feed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kha Chuong",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^10.0.0",
+    "mongodb": "^3.6.3"
+  }
+}
